@@ -42,7 +42,7 @@ To train a model on Human3.6M:
 python main.py --frames 27 --batch_size 1024 --nepoch 50 --lr 0.0002 
 ```
 
-##The pretrained model
+## The pretrained model
 Link to download the pretrained model:
 UTL：https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t 
 
