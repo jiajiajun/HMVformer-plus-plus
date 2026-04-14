@@ -51,11 +51,11 @@ UTL：https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t
 If you find our work useful in your research, please consider citing:
 
 @article{zhang2026hmvformer++,  
-title = {HMVformer++: Hierarchical Multi-view Fusion Transformer for Efficient 3D Human Pose Estimation},  
-author = {Zhang, Lijun and Zhou, Kangkang and Lu, Feng and Wang, Yan and Lan, Xiangyuan and Zhou, Xiang-Dong and Shi, Yu},  
-journal = {Pattern Recognition},  
-pages = {113305},  
-year = {2026},  
+  title = {HMVformer++: Hierarchical Multi-view Fusion Transformer for Efficient 3D Human Pose Estimation},  
+  author = {Zhang, Lijun and Zhou, Kangkang and Lu, Feng and Wang, Yan and Lan, Xiangyuan and Zhou, Xiang-Dong and Shi, Yu},  
+  journal = {Pattern Recognition},  
+  pages = {113305},  
+  year = {2026},  
 }
 
 ## Acknowledgement
