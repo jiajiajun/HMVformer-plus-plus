@@ -43,9 +43,9 @@ python main.py --frames 27 --batch_size 1024 --nepoch 50 --lr 0.0002
 ```
 
 ## The pretrained model
-Please download the pre-trained model from the link below. The model path in the `main` function is `./checkpoint/pretrained/`, which you may modify as needed.
+Please download the pre-trained model from the link below. The model path in the `main.py` function is `./checkpoint/pretrained/`, which you may modify as needed.
 
-UTL：https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t 
+https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t 
 
 ## Citation
 If you find our work useful in your research, please consider citing:
