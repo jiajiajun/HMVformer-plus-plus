@@ -25,7 +25,9 @@ ${POSE_ROOT}/
 
 ## Download Pretrained Model
 
-The pretrained model can be found in the './checkpoint/pretrained' directory. 
+Please download the pre-trained model from the link below. The model path in the `main.py` function is `./checkpoint/pretrained/`, which you may modify as needed.
+
+https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t
 
 ## Test the Model
 
@@ -41,11 +43,6 @@ To train a model on Human3.6M:
 ```bash
 python main.py --frames 27 --batch_size 1024 --nepoch 50 --lr 0.0002 
 ```
-
-## The pretrained model
-Please download the pre-trained model from the link below. The model path in the `main.py` function is `./checkpoint/pretrained/`, which you may modify as needed.
-
-https://pan.baidu.com/s/1rCf7YrqB6R0HPrxF1ohQzQ?pwd=n45t 
 
 ## Citation
 If you find our work useful in your research, please consider citing:
